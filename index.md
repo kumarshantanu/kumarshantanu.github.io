@@ -9,7 +9,7 @@ software technologies. In the recent years I have been interested in distributed
 and performance. Effectiveness of ideas depends on the context, so I tend to irreverently combine good ideas
 irrespective of which paradigms they identify with.
 
-I have many Open Source projects written using Clojure and Java.
+I have created many Open Source projects using Clojure and Java.
 
 
 ### Books
