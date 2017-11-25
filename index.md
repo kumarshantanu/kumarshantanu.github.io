@@ -2,7 +2,7 @@
 layout: default
 title: Shantanu Kumar - About
 ---
-# About | [Open Source Clojure](/clojure-oss.html)
+## About | [Open Source Clojure](/clojure-oss.html)
 
 Experienced software artisan living in Bengaluru, India. I love what I do. I have worked in various domains and
 software technologies. In the recent years I have been interested in distributed systems, databases, scalability
@@ -12,13 +12,13 @@ irrespective of which paradigms they identify with.
 I have many Open Source projects written using Clojure and Java.
 
 
-## Books
+### Books
 
 - [Clojure High Performance Programming, Second Edition](https://www.packtpub.com/application-development/clojure-high-performance-programming-second-edition), Packt Publishing, September 2015
 - [Clojure High Performance Programming, First Edition](https://www.packtpub.com/application-development/clojure-high-performance-programming), Packt Publishing, November 2013
 
 
-## Talks
+### Talks
 
 - _Production Clojure: An Experience Report_, FunctionalConf 2015, Bengaluru [Slides](https://speakerdeck.com/kumarshantanu/production-clojure-an-experience-report)
 - _The Design of Clojure_, FossMeet 2016, Calicut [Slides](https://speakerdeck.com/kumarshantanu/the-design-of-clojure)
@@ -27,13 +27,13 @@ I have many Open Source projects written using Clojure and Java.
 - Various talks at Bengaluru-Clojure meetups
 
 
-## Blogs
+### Blogs
 
 - [CharSequence](http://charsequence.blogspot.in/)
 - [Medium](https://medium.com/@kumarshantanu)
 
 
-## Contact
+### Contact
 
 - [Linkedin](https://www.linkedin.com/in/shantanuk06/)
 - [Twitter](https://twitter.com/kumarshantanu)
@@ -41,7 +41,7 @@ I have many Open Source projects written using Clojure and Java.
 - [Clojurin Slack](https://clojurians.slack.com/team/U066J7E2U)
 
 
-## Employment
+### Employment
 
 - Concur (Since December 2014)
 - Other Indian Software companies (August 2006 to December 2014)
