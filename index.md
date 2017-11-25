@@ -6,7 +6,7 @@ title: Shantanu Kumar - About
 
 Experienced software artisan living in Bengaluru, India. I love what I do. I have worked in various domains and
 software technologies. In the recent years I have been interested in distributed systems, databases, scalability
-and performance. Effectiveness of ideas depends on the context, so I tend to irreverently combine good ideas
+and performance. Effectiveness of ideas depends on the context, so I tend to judiciously combine good ideas
 irrespective of which paradigms they identify with.
 
 I have created many Open Source projects using Clojure and Java.
