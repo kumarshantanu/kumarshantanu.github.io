@@ -38,11 +38,11 @@ I have many Open Source projects written using Clojure and Java.
 - [Linkedin](https://www.linkedin.com/in/shantanuk06/)
 - [Twitter](https://twitter.com/kumarshantanu)
 - [Email](mailto:kumar.shantanu@gmail.com)
-- [Clojurin Slack](https://clojurians.slack.com/team/U066J7E2U)
+- [Clojurian Slack](https://clojurians.slack.com/team/U066J7E2U)
 
 
 ### Employment
 
-- Concur (Since December 2014)
+- [Concur](https://www.concur.com/) (Helping a team use Clojure in production, since December 2014)
 - Other Indian Software companies (August 2006 to December 2014)
 - Indian Air Force (October 1993 to July 2006)
