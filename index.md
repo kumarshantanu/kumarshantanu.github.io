@@ -4,7 +4,7 @@ title: Shantanu Kumar - About
 ---
 ### About | [Open Source Clojure](/clojure-oss.html)
 
-<img src="https://avatars0.githubusercontent.com/u/109792?s=460&v=4" width="100px" height="100px" />
+<img src="https://avatars0.githubusercontent.com/u/109792?s=460&v=4" width="100px" />
 Experienced software artisan living in Bengaluru, India. I love what I do. I have worked in various domains and
 software technologies. In the recent years I have been interested in distributed systems, databases, scalability
 and performance. Effectiveness of ideas depends on the context, so I tend to judiciously combine good ideas
@@ -16,10 +16,10 @@ I have created many Open Source projects using Clojure and Java. I help organize
 
 #### Books
 
-<img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/3642OS_4596_Clojure%20High%20Performance%20Programming,%20Second%20Edition.jpg" width="100px" height="100px" />
 - [Clojure High Performance Programming, Second Edition](https://www.packtpub.com/application-development/clojure-high-performance-programming-second-edition), Packt Publishing, September 2015
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5606OS.jpg" width="100px" height="100px"/>
+  <img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/3642OS_4596_Clojure%20High%20Performance%20Programming,%20Second%20Edition.jpg" width="100px" />
 - [Clojure High Performance Programming, First Edition](https://www.packtpub.com/application-development/clojure-high-performance-programming), Packt Publishing, November 2013
+  <img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5606OS.jpg" width="100px" />
 
 
 #### Talks
