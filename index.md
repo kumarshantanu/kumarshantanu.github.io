@@ -5,6 +5,7 @@ title: Shantanu Kumar - About
 ### About | [Open Source Clojure](/clojure-oss.html)
 
 ![](https://avatars0.githubusercontent.com/u/109792?s=460&v=4)
+<img src="https://avatars0.githubusercontent.com/u/109792?s=460&v=4" width="230px" height="230px">
 Experienced software artisan living in Bengaluru, India. I love what I do. I have worked in various domains and
 software technologies. In the recent years I have been interested in distributed systems, databases, scalability
 and performance. Effectiveness of ideas depends on the context, so I tend to judiciously combine good ideas
