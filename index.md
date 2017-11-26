@@ -9,7 +9,8 @@ software technologies. In the recent years I have been interested in distributed
 and performance. Effectiveness of ideas depends on the context, so I tend to judiciously combine good ideas
 irrespective of which paradigms they identify with.
 
-I have created many Open Source projects using Clojure and Java.
+I have created many Open Source projects using Clojure and Java. I help organize the [Bangalore-Clojure meetup group]
+(https://www.meetup.com/Bangalore-Clojure-User-Group/).
 
 
 ### Books
@@ -20,10 +21,10 @@ I have created many Open Source projects using Clojure and Java.
 
 ### Talks
 
-- _Production Clojure: An Experience Report_, FunctionalConf 2015, Bengaluru [Slides](https://speakerdeck.com/kumarshantanu/production-clojure-an-experience-report)
-- _The Design of Clojure_, FossMeet 2016, Calicut [Slides](https://speakerdeck.com/kumarshantanu/the-design-of-clojure)
-- _Performance optimization with Code as data_, FunctionalConf 2016, Bengaluru [Slides](https://speakerdeck.com/kumarshantanu/performance-optimization-with-code-as-data-in-clojure)
 - _Functional Composition with Dependency Injection_, IN/Clojure 2016, Pune [Slides](https://speakerdeck.com/kumarshantanu/clojure-2016)
+- _Performance optimization with Code as data_, FunctionalConf 2016, Bengaluru [Slides](https://speakerdeck.com/kumarshantanu/performance-optimization-with-code-as-data-in-clojure)
+- _The Design of Clojure_, FossMeet 2016, Calicut [Slides](https://speakerdeck.com/kumarshantanu/the-design-of-clojure)
+- _Production Clojure: An Experience Report_, FunctionalConf 2015, Bengaluru [Slides](https://speakerdeck.com/kumarshantanu/production-clojure-an-experience-report)
 - Various talks at Bengaluru-Clojure meetups
 
 
@@ -36,13 +37,13 @@ I have created many Open Source projects using Clojure and Java.
 ### Contact
 
 - [Linkedin](https://www.linkedin.com/in/shantanuk06/)
-- [Twitter](https://twitter.com/kumarshantanu)
+- [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
 - [Email](mailto:kumar.shantanu@gmail.com)
-- [Clojurian Slack](https://clojurians.slack.com/team/U066J7E2U)
+- [Clojurian Slack: @kumarshantanu](https://clojurians.slack.com/team/U066J7E2U)
 
 
 ### Employment
 
 - [Concur](https://www.concur.com/) (Helping a team use Clojure in production, since December 2014)
-- Other Indian Software companies (August 2006 to December 2014)
-- Indian Air Force (October 1993 to July 2006)
+- Other Software companies (August 2006 to December 2014)
+- Indian Air Force (Built information management systems, December 1994 to July 2006)
