@@ -16,8 +16,8 @@ I have created many Open Source projects using Clojure and Java. I help organize
 
 #### Books
 
-[<img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/3642OS_4596_Clojure%20High%20Performance%20Programming,%20Second%20Edition.jpg" float="right" padding="5px" width="100px" />](https://www.packtpub.com/application-development/clojure-high-performance-programming-second-edition)
-[<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5606OS.jpg" float="right" padding="5px" width="100px" />](https://www.packtpub.com/application-development/clojure-high-performance-programming)
+[<img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/3642OS_4596_Clojure%20High%20Performance%20Programming,%20Second%20Edition.jpg" title="Clojure High Performance Progrmming, Second Edition" float="right" padding="5px" width="100px" />](https://www.packtpub.com/application-development/clojure-high-performance-programming-second-edition)
+[<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5606OS.jpg" title="Clojure High Performance Progrmming, First Edition" float="right" padding="5px" width="100px" />](https://www.packtpub.com/application-development/clojure-high-performance-programming)
 
 - [Clojure High Performance Programming, Second Edition](https://www.packtpub.com/application-development/clojure-high-performance-programming-second-edition), Packt Publishing, September 2015
 - [Clojure High Performance Programming, First Edition](https://www.packtpub.com/application-development/clojure-high-performance-programming), Packt Publishing, November 2013
