@@ -45,10 +45,10 @@ I have created many Open Source projects using Clojure and Java. I help organize
       type="text/css"
       href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-- [Linkedin](https://www.linkedin.com/in/shantanuk06/)
+- <i class="fa fa-linkedin" aria-hidden="true"></i> [Linkedin](https://www.linkedin.com/in/shantanuk06/)
 - <i class="fa fa-twitter" aria-hidden="true"></i> [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
-- [Email](mailto:kumar.shantanu@gmail.com)
-- [Clojurian Slack: @kumarshantanu](https://clojurians.slack.com/team/U066J7E2U)
+- <i class="fa fa-envelope" aria-hidden="true"></i> [Email](mailto:kumar.shantanu@gmail.com)
+- <i class="fa fa-slack" aria-hidden="true"></i> [Clojurian Slack: @kumarshantanu](https://clojurians.slack.com/team/U066J7E2U)
 
 
 #### Employment
