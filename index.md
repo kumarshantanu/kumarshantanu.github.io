@@ -53,6 +53,6 @@ I have created many Open Source projects using Clojure and Java. I help organize
 
 #### Employment
 
-- [Concur](https://www.concur.com/) (Helping a team use Clojure in production, since December 2014)
+- [Concur](https://www.concur.com/) (Helping to solve identity problems at scale with Clojure, since December 2014)
 - Other Software companies (August 2006 to December 2014)
 - Indian Air Force (Built information management systems, December 1994 to July 2006)
