@@ -41,8 +41,12 @@ I have created many Open Source projects using Clojure and Java. I help organize
 
 #### Contact
 
+<link rel="stylesheet"
+      type="text/css"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
 - [Linkedin](https://www.linkedin.com/in/shantanuk06/)
-- [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
+- <i class="fa fa-twitter" aria-hidden="true"></i> [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
 - [Email](mailto:kumar.shantanu@gmail.com)
 - [Clojurian Slack: @kumarshantanu](https://clojurians.slack.com/team/U066J7E2U)
 
