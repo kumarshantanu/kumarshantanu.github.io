@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/kumarshantanu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kumarshantanu.github.io
+  * I am kumarshantanu (https://keybase.io/kumarshantanu) on keybase.
+  * I have a public key ASA0DqamW6PQjQyl_-bJHXrfpaCtJQkjYl6l02334oNRZQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120340ea6a65ba3d08d0ca5ffe6c91d7adfa5a0ad250923625ea5d36df7e28351650a",
+      "host": "keybase.io",
+      "kid": "0120340ea6a65ba3d08d0ca5ffe6c91d7adfa5a0ad250923625ea5d36df7e28351650a",
+      "uid": "9e7168d624c2d14585d4bf7fb6afcc19",
+      "username": "kumarshantanu"
+    },
+    "merkle_root": {
+      "ctime": 1516853029,
+      "hash": "32c6b559b960d251fd638ce6a029f2978e4bf848d91f56f18da3f858084a264953dc554058910bbc5313d3a0983e5c2bd6bee74948bd2276e6cb3f732987f586",
+      "hash_meta": "4d1848389423946b5da02522a296a238597bbf4df48ded893143d5ba3c650a84",
+      "seqno": 1977895
+    },
+    "service": {
+      "hostname": "kumarshantanu.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1516853098,
+  "expire_in": 504576000,
+  "prev": "a61168e1eab1089cc48d89b46d7608bbf7dd01222bab6155627fc0ba295e41e9",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNA6mpluj0I0Mpf/myR1636WgrSUJI2JepdNt9+KDUWUKp3BheWxvYWTFA1R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzQwZWE2YTY1YmEzZDA4ZDBjYTVmZmU2YzkxZDdhZGZhNWEwYWQyNTA5MjM2MjVlYTVkMzZkZjdlMjgzNTE2NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzQwZWE2YTY1YmEzZDA4ZDBjYTVmZmU2YzkxZDdhZGZhNWEwYWQyNTA5MjM2MjVlYTVkMzZkZjdlMjgzNTE2NTBhIiwidWlkIjoiOWU3MTY4ZDYyNGMyZDE0NTg1ZDRiZjdmYjZhZmNjMTkiLCJ1c2VybmFtZSI6Imt1bWFyc2hhbnRhbnUifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTY4NTMwMjksImhhc2giOiIzMmM2YjU1OWI5NjBkMjUxZmQ2MzhjZTZhMDI5ZjI5NzhlNGJmODQ4ZDkxZjU2ZjE4ZGEzZjg1ODA4NGEyNjQ5NTNkYzU1NDA1ODkxMGJiYzUzMTNkM2EwOTgzZTVjMmJkNmJlZTc0OTQ4YmQyMjc2ZTZjYjNmNzMyOTg3ZjU4NiIsImhhc2hfbWV0YSI6IjRkMTg0ODM4OTQyMzk0NmI1ZGEwMjUyMmEyOTZhMjM4NTk3YmJmNGRmNDhkZWQ4OTMxNDNkNWJhM2M2NTBhODQiLCJzZXFubyI6MTk3Nzg5NX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJrdW1hcnNoYW50YW51LmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM5In0sImN0aW1lIjoxNTE2ODUzMDk4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImE2MTE2OGUxZWFiMTA4OWNjNDhkODliNDZkNzYwOGJiZjdkZDAxMjIyYmFiNjE1NTYyN2ZjMGJhMjk1ZTQxZTkiLCJzZXFubyI6NSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDY4LwDo2H+Kf53syWZvgILlfumh8B072sJEPZdDDZc5+C5pIHWtBNa7C3Afyf7gBziVrsGEQsP+A67jE/0TlAHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgw3C0ay/EFh3tdF2AUgj97RJZgdvoTYNElJH+ApugXs+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kumarshantanu
+
+==================================================================
