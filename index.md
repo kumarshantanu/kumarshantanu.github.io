@@ -49,7 +49,7 @@ I have created many Open Source projects using Clojure and Java. I help organize
 - <i class="fa fa-twitter" aria-hidden="true"></i> [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
 - <i class="fa fa-envelope" aria-hidden="true"></i> [Email](mailto:kumar.shantanu@gmail.com)
 - <i class="fa fa-slack" aria-hidden="true"></i> [Clojurian Slack: @kumarshantanu](https://clojurians.slack.com/team/U066J7E2U)
-- <i class="fa fa-speaker-deck" aria-hidden="true"></i> [SpeakerDeck](https://speakerdeck.com/kumarshantanu)
+- <i class="fab fa-speaker-deck" aria-hidden="true"></i> [SpeakerDeck](https://speakerdeck.com/kumarshantanu)
 
 
 #### Employment
