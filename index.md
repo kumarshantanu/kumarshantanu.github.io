@@ -43,7 +43,9 @@ I have created many Open Source projects using Clojure and Java. I help organize
 
 <link rel="stylesheet"
       type="text/css"
-      href="https://maxcdn.bootstrapcdn.com/font-awesome/5.8.0/css/font-awesome.min.css" />
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous" />
 
 - <i class="fab fa-linkedin" aria-hidden="true"></i> [Linkedin](https://www.linkedin.com/in/shantanuk06/)
 - <i class="fab fa-twitter" aria-hidden="true"></i> [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
