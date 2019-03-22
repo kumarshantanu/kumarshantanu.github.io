@@ -43,7 +43,7 @@ I have created many Open Source projects using Clojure and Java. I help organize
 
 <link rel="stylesheet"
       type="text/css"
-      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/5.8.0/css/font-awesome.min.css" />
 
 - <i class="fa fa-linkedin" aria-hidden="true"></i> [Linkedin](https://www.linkedin.com/in/shantanuk06/)
 - <i class="fa fa-twitter" aria-hidden="true"></i> [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
