@@ -51,7 +51,7 @@ using Clojure and Java. I help organize the
 
 - <i class="fab fa-linkedin" aria-hidden="true"></i> [Linkedin](https://www.linkedin.com/in/shantanuk06/)
 - <i class="fab fa-twitter" aria-hidden="true"></i> [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
-- <i class="fab fa-envelope-o" aria-hidden="true"></i> [Email](mailto:kumar.shantanu@gmail.com)
+- <i class="fas fa-envelope" aria-hidden="true"></i> [Email](mailto:kumar.shantanu@gmail.com)
 - <i class="fab fa-slack" aria-hidden="true"></i> [Clojurian Slack: @kumarshantanu](https://clojurians.slack.com/team/U066J7E2U)
 - <i class="fab fa-speaker-deck" aria-hidden="true"></i> [SpeakerDeck](https://speakerdeck.com/kumarshantanu)
 
