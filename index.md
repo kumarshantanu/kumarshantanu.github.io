@@ -10,7 +10,8 @@ software technologies. In the recent years I have been interested in distributed
 and performance. Effectiveness of ideas depends on the context, so I tend to judiciously combine good ideas
 irrespective of which paradigms they identify with.
 
-I have created many Open Source projects using Clojure and Java. I help organize the
+I have created many [Open Source projects](https://kumarshantanu.github.io/clojure-oss.html)
+using Clojure and Java. I help organize the
 [Bangalore-Clojure meetup group](https://www.meetup.com/Bangalore-Clojure-User-Group/).
 
 
