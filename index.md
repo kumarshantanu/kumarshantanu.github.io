@@ -27,7 +27,7 @@ using Clojure and Java. I help organize the
 
 #### Talks
 
-- _BRACT: A Minimal DRY Application Framework_, IN/Clojure 2019, Bangalore [Slides](https://speakerdeck.com/kumarshantanu/bract-a-minimal-dry-application-framework)
+- _Bract: A Minimal DRY Application Framework_, IN/Clojure 2019, Bangalore [Slides](https://speakerdeck.com/kumarshantanu/bract-a-minimal-dry-application-framework)
 - _Functional Composition with Dependency Injection_, IN/Clojure 2016, Pune [Slides](https://speakerdeck.com/kumarshantanu/clojure-2016)
 - _Performance optimization with Code as data_, FunctionalConf 2016, Bengaluru [Slides](https://speakerdeck.com/kumarshantanu/performance-optimization-with-code-as-data-in-clojure)
 - _The Design of Clojure_, FossMeet 2016, Calicut [Slides](https://speakerdeck.com/kumarshantanu/the-design-of-clojure)
