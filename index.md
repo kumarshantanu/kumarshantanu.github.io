@@ -49,6 +49,7 @@ using Clojure and Java. I help organize the
       integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
       crossorigin="anonymous" />
 
+- <i class="fab fa-github" aria-hidden="true"></i> [Github](https://github.com/kumarshantanu)
 - <i class="fab fa-linkedin" aria-hidden="true"></i> [Linkedin](https://www.linkedin.com/in/shantanuk06/)
 - <i class="fab fa-twitter" aria-hidden="true"></i> [Twitter: @kumarshantanu](https://twitter.com/kumarshantanu)
 - <i class="fas fa-envelope" aria-hidden="true"></i> [Email](mailto:kumar.shantanu@gmail.com)
