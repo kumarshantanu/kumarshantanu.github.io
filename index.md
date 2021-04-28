@@ -59,6 +59,5 @@ using Clojure and Java. I help organize the
 
 #### Employment
 
-- [Gojek](https://www.gojek.io/) (since January 2019)
-- Other Software companies (August 2006 to January 2019)
+- Software industry (Built Enterprise/Distributed systems. since August 2006)
 - Indian Air Force (Built information management systems, December 1994 to July 2006)
