@@ -18,10 +18,10 @@ using Clojure and Java. I help organize the
 #### Books
 
 [<img src="https://static.packt-cdn.com/products/9781785283642/cover/smaller" title="Clojure High Performance Programming, Second Edition" float="right" padding="5px" width="100px" />](https://www.packtpub.com/en-US/product/clojure-high-performance-programming-second-edition-9781785283642)
-[<img src="https://static.packt-cdn.com/products/9781782165606/cover/smaller" title="Clojure High Performance Progrmming, First Edition" float="right" padding="5px" width="100px" />](https://www.packtpub.com/application-development/clojure-high-performance-programming)
+[<img src="https://static.packt-cdn.com/products/9781782165606/cover/smaller" title="Clojure High Performance Progrmming, First Edition" float="right" padding="5px" width="100px" />](https://books.google.co.in/books/about/Clojure_High_Performance_Programming.html?id=vZYfAgAAQBAJ&redir_esc=y)
 
 - [Clojure High Performance Programming, Second Edition](https://www.packtpub.com/en-US/product/clojure-high-performance-programming-second-edition-9781785283642), Packt Publishing, September 2015
-- [Clojure High Performance Programming, First Edition](https://www.packtpub.com/application-development/clojure-high-performance-programming), Packt Publishing, November 2013
+- [Clojure High Performance Programming, First Edition](https://books.google.co.in/books/about/Clojure_High_Performance_Programming.html?id=vZYfAgAAQBAJ&redir_esc=y), Packt Publishing, November 2013
 
 
 
